@@ -61,9 +61,9 @@ background: #AD09A7;
 
 
 ## OUTPUT:
-![output1](output1)
-![output2](output2)
-![output3](output3)
+![output1](output1.png)
+![output2](output2.png)
+![output3](output3.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
