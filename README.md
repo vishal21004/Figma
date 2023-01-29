@@ -61,9 +61,9 @@ background: #AD09A7;
 
 
 ## OUTPUT:
-![android1](output1)
-![android2](output2)
-![android3](output3)
+![output1](output1)
+![output2](output2)
+![output3](output3)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
